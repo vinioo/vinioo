@@ -33,13 +33,3 @@
 <a href = 'https://vinioo.github.io/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
 <a href = 'https://www.github.com/vinioo'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
 
-
-<br>
-
-
-<h2> My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'> </h2>
-
-![Metrics](https://metrics.lecoq.io/vinioo?template=terminal&base.header=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&projects=1&languages.limit=6&languages.colors=github&languages.threshold=0%25&projects.limit=4&projects.descriptions=false&config.timezone=Etc%2FGMT%2B3)
-
-
-<br>
